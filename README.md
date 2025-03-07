@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noé Landré</h1>
-<h3 align="center">A passionate full-stack developer and IA/Data Engineer from France</h3>
+<h3 align="center">A passionate full-stack developer and IA/Data Scientist from France</h3>
 
 - 🌱 I’m currently learning **Blender, Rust**
 
