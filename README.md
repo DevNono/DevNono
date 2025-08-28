@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/noe-landre/](https://linkedin.com/in/noe-landre/)
 
-- ⚡ Fun fact **I think I'm the only human who loves PHP**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/innovanttech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="innovanttech" height="30" width="40" /></a>
