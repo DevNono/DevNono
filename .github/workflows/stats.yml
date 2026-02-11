@@ -32,11 +32,17 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy card
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
+          options: 'username=${{ github.repository_owner }}&theme=juicyfresh&column=7&margin-w=15&margin-h=1'
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: profile/snake.svg?palette=github-dark
 
       - name: Commit cards
         run: |
