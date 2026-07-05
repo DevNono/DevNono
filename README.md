@@ -17,7 +17,7 @@
 
 ## ✨ About Me
 
-- 🌱 I’m currently learning **C++ programming** to contribute to Ladybird browser
+- 🌱 I’m currently learning **C++ programming**
 
 - 👀 I'm interested in **open-source**
 
